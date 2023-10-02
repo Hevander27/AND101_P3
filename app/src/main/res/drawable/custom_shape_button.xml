@@ -1,0 +1,16 @@
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+<!-- Background color for the button -->
+<item android:id="@android:id/background">
+    <shape android:shape="rectangle">
+        <solid android:color="@color/black" /> <!-- Button background color -->
+        <corners android:radius="20dp" /> <!-- Adjust the radius for rounded corners -->
+    </shape>
+</item>
+<!-- Image layer (the shape of the button) -->
+<item android:id="@android:id/content">
+    <bitmap
+        android:src="@drawable/dogeprofile_thumbnail"
+        android:gravity="center" /> <!-- Replace 'your_image' with the image you want to use -->
+</item>
+</layer-list>

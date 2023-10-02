@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/newButton"
         android:layout_marginStart="20dp"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="10dp"
         android:orientation="horizontal"
         android:padding="0dp">
 
@@ -50,7 +50,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/musicTitle"
         android:layout_marginStart="0dp"
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="10dp"
         android:background="@android:color/transparent"
         android:text="Playlist"
         android:textColor="@color/white"
@@ -63,7 +63,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/musicTitle"
         android:layout_marginStart="125dp"
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="10dp"
         android:background="@android:color/transparent"
         android:text="Artists"
         android:textColor="@color/darker_grey"
@@ -75,7 +75,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/musicTitle"
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="10dp"
         android:layout_marginStart="235dp"
         android:background="@android:color/transparent"
         android:text="Albums"
@@ -115,7 +115,8 @@
                 android:text="I smell biscuts"
                 android:textStyle="bold"
                 android:textColor="@color/white"
-                android:textSize="20sp" />
+                android:fontFamily="@font/cedarvillecursive_regular"
+                android:textSize="22sp" />
 
             <!-- Tile 3 Author -->
             <TextView
@@ -214,7 +215,8 @@
                 android:layout_height="wrap_content"
                 android:text="Doggy Dreamland"
                 android:textColor="@color/white"
-                android:textSize="20sp"
+                android:fontFamily="@font/cedarvillecursive_regular"
+                android:textSize="22sp"
                 android:textStyle="bold" />
 
             <!-- Tile 1 Author -->
@@ -260,7 +262,8 @@
                 android:layout_height="wrap_content"
                 android:text="Chew Toy dreams"
                 android:textColor="@color/white"
-                android:textSize="20sp"
+                android:fontFamily="@font/cedarvillecursive_regular"
+                android:textSize="22sp"
                 android:textStyle="bold" />
 
             <!-- Tile 2 Author -->
@@ -306,7 +309,8 @@
                 android:layout_height="wrap_content"
                 android:text="Love Your Human"
                 android:textColor="@color/white"
-                android:textSize="20sp"
+                android:textSize="22sp"
+                android:fontFamily="@font/cedarvillecursive_regular"
                 android:textStyle="bold" />
 
             <!-- Tile 3 Author -->
@@ -327,6 +331,16 @@
         android:layout_below="@id/tile4"
         android:layout_marginTop="10dp"
         android:background="@drawable/bottombar" />
+
+    <ImageButton
+        android:id="@+id/customButton"
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/playlistCoverImage"
+        android:layout_marginStart="350dp"
+        android:background="@drawable/dogeprofile_thumbnail"
+        android:contentDescription="Profile Picture"/>
+
 
 
 </RelativeLayout>
