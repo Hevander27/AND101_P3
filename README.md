@@ -42,7 +42,7 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **Animal Apps** app:
 
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src="https://musictech.com/wp-content/uploads/2019/06/spotify-your-library-refreshed-layout@1400x1050.jpg" alt="Spotify Your Library Refreshed layout" class="w-full" loading="lazy" sizes=" (max-width: 768px) 100vw, (min-width: 769px) and (max-width: 1023px) 720px, 520px" srcset="https://musictech.com/wp-content/uploads/2019/06/spotify-your-library-refreshed-layout@1400x1050.jpg 1400w, https://musictech.com/wp-content/uploads/2019/06/spotify-your-library-refreshed-layout@1400x1050-150x113.jpg 150w, https://musictech.com/wp-content/uploads/2019/06/spotify-your-library-refreshed-layout@1400x1050-300x225.jpg 300w, https://musictech.com/wp-content/uploads/2019/06/spotify-your-library-refreshed-layout@1400x1050-400x300.jpg 400w, https://musictech.com/wp-content/uploads/2019/06/spotify-your-library-refreshed-layout@1400x1050-650x488.jpg 650w, https://musictech.com/wp-content/uploads/2019/06/spotify-your-library-refreshed-layout@1400x1050-800x600.jpg 800w, https://musictech.com/wp-content/uploads/2019/06/spotify-your-library-refreshed-layout@1400x1050-1200x900.jpg 1200w" height="900" width="1200">
 
 ## Video Demo
 
