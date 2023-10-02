@@ -49,7 +49,7 @@ I have chosen to duplicate the following layout from the **Animal Apps** app:
 Here's a video / GIF that demos all of the app's implemented features:
 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/mNgj29i"  ><a href="//imgur.com/a/mNgj29i">Hevander Da Costa AND101</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a href="//imgur.com/a/mNgj29i">
 GIF created with **your chosen GIF tool**
 
 <!-- Recommended tools:
