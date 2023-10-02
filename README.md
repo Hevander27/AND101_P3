@@ -48,7 +48,7 @@ I have chosen to duplicate the following layout from the **Animal Apps** app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://imgur.com/a/mNgj29i' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/a/mNgj29i.gif' title='Video Demo' width='300' height='300' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
@@ -63,7 +63,6 @@ Here is my entry for the "Create a second layout, this time for an original, per
 
 It is for an app that **brief description**.
 
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Notes
 
