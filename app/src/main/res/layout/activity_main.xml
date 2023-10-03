@@ -62,7 +62,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/musicTitle"
-        android:layout_marginStart="125dp"
+        android:layout_marginStart="110dp"
         android:layout_marginTop="10dp"
         android:background="@android:color/transparent"
         android:text="Artists"
@@ -76,12 +76,13 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/musicTitle"
         android:layout_marginTop="10dp"
-        android:layout_marginStart="235dp"
+        android:layout_marginStart="210dp"
         android:background="@android:color/transparent"
         android:text="Albums"
         android:textColor="@color/darker_grey"
         android:textSize="24sp"
         android:textStyle="normal" />
+
 
     <LinearLayout
         android:id="@+id/tile4"
@@ -339,7 +340,8 @@
         android:layout_below="@id/playlistCoverImage"
         android:layout_marginStart="350dp"
         android:background="@drawable/dogeprofile_thumbnail"
-        android:contentDescription="Profile Picture"/>
+        android:contentDescription="Profile Picture" />
+
 
 
 
