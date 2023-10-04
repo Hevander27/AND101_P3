@@ -48,7 +48,7 @@ I have chosen to duplicate the following layout from the **Animal Apps** app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img href='https://imgur.com/a/mNgj29i' title='Video Demo' width='100' height='100' alt='Video Demo' />
+<img href='https://imgur.com/a/mNgj29i' title='Video Demo' width='200' height='200' alt='Video Demo' />
 <img href="//i.imgur.com/a/mNgj29i.gif">
 GIF created with **your chosen GIF tool**
 
