@@ -46,7 +46,8 @@ I have chosen to duplicate the following layout from the **Animal Apps** app:
 
 ## Video Demo
 
-Here's a video / GIF that demos all of the app's implemented features:
+Here's a video / GIF that demos all of the app's implemented features
+
 <img src='https://i.imgur.com/ayoDhvc.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
